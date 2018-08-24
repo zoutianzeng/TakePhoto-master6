@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Test_shi_xun_one</string>
+    <string name="submission">充值提交</string>
+    <string name="order_mesg">订单信息</string>
+    <string name="money">应付金额:</string>
+    <string name="moneynum">￥600</string>
+    <string name="dingdan_xinxi">订单信息:</string>
+    <string name="chong_zhi">充值600金币</string>
+</resources>

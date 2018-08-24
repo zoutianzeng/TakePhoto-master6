@@ -1,0 +1,1 @@
+include ':takephoto_library', ':simple', ':test_shi_xun_one', ':myapplication'
